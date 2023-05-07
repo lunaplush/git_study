@@ -11,7 +11,7 @@ def print_hi(name):
 def func1():
     print("begin")
 
-    print("middle")
+    print("north")
 
     print("button")
 
